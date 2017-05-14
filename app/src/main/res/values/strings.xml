@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Chess Quiz App</string>
+    <string name="title">The Chess Quiz!</string>
+    <string name="submit_button">Submit</string>
+    <string name="reset_button">Reset</string>
+
+    <!-- strings for questions & answers -->
+    <string name="question1text">1. Queen is __ points.</string>
+    <string name="question_answer_no9">9</string>
+    <string name="question_answer_no5">5</string>
+    <string name="question_answer_no3">3</string>
+    <string name="question_answer_no1">1</string>
+    <string name="question2text">2. Rook is ___ points.</string>
+    <string name="question3text">3. What situations are true?  Check all that apply.</string>
+    <string name="question3answer1">A. You can have two or more Queens.</string>
+    <string name="question3answer2">B. Your King and Bishop can checkmate your enemy\'s King.</string>
+    <string name="question3answer3">C. Your King and Rook can checkmate your enemy\'s King.</string>
+    <string name="question3answer4">D. Your King and Knight can checkmate your enemy\'s King.</string>
+    <string name="question3answer5">E. Your King and Queen can checkmate your enemy\'s King.</string>
+    <string name="question3answer6">F. Your King and 2 Knights can checkmate your enemy\'s King.</string>
+    <string name="question3answer7">G. Your King, Bishop and Knight can checkmate your enemy\'s King.</string>
+    <string name="question4text">4. What must you do in the first few moves?  Check all that apply.</string>
+    <string name="question4answer1">A. Attack your enemy with your Queen as early as possible.</string>
+    <string name="question4answer2">B. Put your pieces at the sides of the board to prevent sneak attacks.</string>
+    <string name="question4answer3">C. Put your pieces towards the center.</string>
+    <string name="question4answer4">D. Castle early.</string>
+    <string name="question4answer5">E. Attack pushing all your pawns forward to beat the enemy fast.</string>
+    <string name="question4answer6">F. Control or occupy the center.</string>
+    <string name="question5text">5. A draw can be agreed.</string>
+    <string name="answerTrue">True</string>
+    <string name="answerFalse">False</string>
+    <string name="question6text">6. A Bishop can draw against a Rook.</string>
+    <string name="hint_true_or_false">Answer True or False</string>
+    <string name="question7text">7. A Knight can attack three pieces at the same time.</string>
+    <string name="question8text">8. Stalemate is a win for the side with more pieces.</string>
+    <string name="question9text">9. I can improve my chess by________.</string>
+    <string name="question9answer1">A. Playing a lot of chess games.</string>
+    <string name="question9answer2">B. Reading chess books.</string>
+    <string name="question9answer3">C. Doing online training.</string>
+    <string name="question9answer4">D. Doing online training.</string>
+    <string name="question9answer5">E. All of the above.</string>
+    <string name="image_description">Chess board image</string>
+    <string name="question10text">10. What is going to be the outcome of the following setup? White plays.</string>
+    <string name="question10answer1">White wins</string>
+    <string name="question10answer2">Black wins</string>
+    <string name="question10answer3">It\'s a draw!</string>
+</resources>
